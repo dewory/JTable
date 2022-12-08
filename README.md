@@ -2,6 +2,8 @@
 
 ## 如何使用JTable来展示数据
 
+### 新疆师范大学 软件工程21-6班 刁旺睿
+
 1.绘制出带滚动条的JTable表格并填充数据
 ![](https://github.com/sk8diao/JTable/blob/master/screenshots/1.png)
 
